@@ -1,0 +1,2 @@
+Prefix plugins/Spearman/example/
+Plugin Spearman inputfile abundN.csv outputfile corrP.spearman.csv
